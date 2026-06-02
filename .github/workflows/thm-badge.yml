@@ -8,5 +8,5 @@ jobs:
       - uses: KeizerSec/Tryhackme-Badge@v1
         # with: { username: mangrove }
         with:
-          username: aphrodite
+          username: AphroSec
           theme: matrix
